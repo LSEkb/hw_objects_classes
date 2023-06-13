@@ -23,13 +23,6 @@ public class Book {
         return this.publishingYear;
     }
 
-    public void setBookName(String bookName) {
-        this.bookName = bookName;
-    }
-
-    public void setAuthorName(Author authorName) {
-        this.authorName = authorName;
-    }
 
     public void setPublishingYear(int publishingYear) {
         this.publishingYear = publishingYear;
